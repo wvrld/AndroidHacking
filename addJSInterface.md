@@ -52,4 +52,4 @@
     JavaScript into the http response and execute it to through the Java Reflection APIs
     exposed via the WebView JavaScript interface. But it will works only when apps are targeting API levels <= 16. 
 
-Next Part - Bypassing ScreenLocks. 
+Next Part - Bypassing ScreenLocks and Pulling data from SD card.
