@@ -1,5 +1,7 @@
 # AddJavascriptInterface
 
+Everything here is only for educational purposes only!
+
     The Webview addJavaScriptInterface exploit is one of the most interesting
     remote exploits that has been discovered so far, but they wont probably work on new devices.
 
